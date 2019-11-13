@@ -81,7 +81,7 @@
                             </ul>
                             <ul class="navbar-nav ml-auto mt-10">
                             <li class="nav-item">
-                                <a class="nav-link login-button" href="logout.php" style="background-color:aqua">logout</a>
+                                <a class="nav-link login-button" href="logout.php" style="background-color:#ff8080">logout</a>
                             </li>
 						</ul>
                         </div>
